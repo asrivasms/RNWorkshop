@@ -15,24 +15,6 @@ const RootTabNavigator = TabNavigator(
     Welcome: {
       screen: WelcomeScreen,
     },
-    Build: {
-      screen: BuildScreen,
-    },
-    Test: {
-      screen: TestScreen,
-    },
-    CodePush: {
-      screen: CodePushScreen
-    },
-    Distribute: {
-      screen: DistributeScreen,
-    },
-    Crashes: {
-      screen: CrashesScreen,
-    },
-    Analytics: {
-      screen: AnalyticsScreen,
-    },
     Push: {
       screen: PushScreen,
     }
